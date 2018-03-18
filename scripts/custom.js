@@ -1,0 +1,1 @@
+$("#buy-button").click(function(){return $("#splash").css("display","block")});
